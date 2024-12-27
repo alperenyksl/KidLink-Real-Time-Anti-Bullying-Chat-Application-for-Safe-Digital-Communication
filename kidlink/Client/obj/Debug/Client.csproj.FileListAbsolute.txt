@@ -1,0 +1,59 @@
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\bin\Debug\Client.exe.config
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\bin\Debug\Client.exe
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\bin\Debug\Client.pdb
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.formMain.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.formLogin.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.formPrivate.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.exe
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.pdb
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\bin\Debug\Client.exe.config
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\bin\Debug\Client.exe
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\bin\Debug\Client.pdb
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.formMain.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.formLogin.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.formPrivate.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.exe
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.pdb
+E:\aglar\asd\Client\bin\Debug\Client.exe.config
+E:\aglar\asd\Client\bin\Debug\Client.exe
+E:\aglar\asd\Client\bin\Debug\Client.pdb
+E:\aglar\asd\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\aglar\asd\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+E:\aglar\asd\Client\obj\Debug\Client.formMain.resources
+E:\aglar\asd\Client\obj\Debug\Client.formLogin.resources
+E:\aglar\asd\Client\obj\Debug\Client.formPrivate.resources
+E:\aglar\asd\Client\obj\Debug\Client.Properties.Resources.resources
+E:\aglar\asd\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\aglar\asd\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\aglar\asd\Client\obj\Debug\Client.exe
+E:\aglar\asd\Client\obj\Debug\Client.pdb
+C:\Users\User\Desktop\asd\Client\obj\Debug\Client.exe
+C:\Users\User\Desktop\asd\Client\obj\Debug\Client.pdb
+C:\Users\User\Desktop\asd\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\asd\Client\bin\Debug\Client.exe.config
+C:\Users\User\Desktop\asd\Client\bin\Debug\Client.exe
+C:\Users\User\Desktop\asd\Client\bin\Debug\Client.pdb
+C:\Users\User\Desktop\asd\Client\obj\Debug\Client.formMain.resources
+C:\Users\User\Desktop\asd\Client\obj\Debug\Client.formLogin.resources
+C:\Users\User\Desktop\asd\Client\obj\Debug\Client.formPrivate.resources
+C:\Users\User\Desktop\asd\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\User\Desktop\asd\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\asd\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\akcol\Desktop\asd\asd\Client\bin\Debug\Client.exe.config
+C:\Users\akcol\Desktop\asd\asd\Client\bin\Debug\Client.exe
+C:\Users\akcol\Desktop\asd\asd\Client\bin\Debug\Client.pdb
+C:\Users\akcol\Desktop\asd\asd\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\akcol\Desktop\asd\asd\Client\obj\Debug\Client.formMain.resources
+C:\Users\akcol\Desktop\asd\asd\Client\obj\Debug\Client.formLogin.resources
+C:\Users\akcol\Desktop\asd\asd\Client\obj\Debug\Client.formPrivate.resources
+C:\Users\akcol\Desktop\asd\asd\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\akcol\Desktop\asd\asd\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\akcol\Desktop\asd\asd\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\akcol\Desktop\asd\asd\Client\obj\Debug\Client.exe
+C:\Users\akcol\Desktop\asd\asd\Client\obj\Debug\Client.pdb
