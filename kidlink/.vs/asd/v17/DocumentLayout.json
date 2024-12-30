@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\asd\\",
+  "WorkspaceRootPath": "C:\\Users\\Msi\\Desktop\\asd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\asd\\Server\\formServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\formServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Msi\\Desktop\\asd\\asd\\Server\\formServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:asd\\Server\\formServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\asd\\Client\\formMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Client\\formMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\asd\\Server\\IPBanManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\IPBanManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\asd\\Server\\BadwordFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\BadwordFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Msi\\Desktop\\asd\\asd\\Client\\formMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:asd\\Client\\formMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BadwordFilter.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\asd\\Server\\BadwordFilter.cs",
-              "RelativeDocumentMoniker": "Server\\BadwordFilter.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\asd\\Server\\BadwordFilter.cs",
-              "RelativeToolTip": "Server\\BadwordFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T16:39:19.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPBanManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\asd\\Server\\IPBanManager.cs",
-              "RelativeDocumentMoniker": "Server\\IPBanManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\asd\\Server\\IPBanManager.cs",
-              "RelativeToolTip": "Server\\IPBanManager.cs",
+              "DocumentIndex": 0,
+              "Title": "formServer.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\Desktop\\asd\\asd\\Server\\formServer.cs",
+              "RelativeDocumentMoniker": "asd\\Server\\formServer.cs",
+              "ToolTip": "C:\\Users\\Msi\\Desktop\\asd\\asd\\Server\\formServer.cs",
+              "RelativeToolTip": "asd\\Server\\formServer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T16:27:28.241Z",
+              "WhenOpened": "2024-12-30T08:43:36.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "formMain.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\asd\\Client\\formMain.cs",
-              "RelativeDocumentMoniker": "Client\\formMain.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\asd\\Client\\formMain.cs",
-              "RelativeToolTip": "Client\\formMain.cs",
-              "ViewState": "AgIAAB0BAAAAAAAAAAAcwCIBAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Msi\\Desktop\\asd\\asd\\Client\\formMain.cs",
+              "RelativeDocumentMoniker": "asd\\Client\\formMain.cs",
+              "ToolTip": "C:\\Users\\Msi\\Desktop\\asd\\asd\\Client\\formMain.cs",
+              "RelativeToolTip": "asd\\Client\\formMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T16:23:27.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "formServer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\asd\\Server\\formServer.cs",
-              "RelativeDocumentMoniker": "Server\\formServer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\asd\\Server\\formServer.cs",
-              "RelativeToolTip": "Server\\formServer.cs",
-              "ViewState": "AgIAAKcBAAAAAAAAAAAcwLABAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T15:46:59.37Z",
+              "WhenOpened": "2024-12-30T08:43:31.632Z",
               "EditorCaption": ""
             }
           ]
